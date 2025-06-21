@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Analytics Dashboard
 
 A real-time weather data analytics and visualization web application built with Flask, Socket.IO, and Chart.js.
@@ -247,3 +248,7 @@ For support and questions:
 ---
 
 **Note**: This application is designed for educational and demonstration purposes. For production use, consider implementing additional security measures, error handling, and performance optimizations.
+=======
+# Fetch-weather-webapp
+Data retrieval for weather and virtual visualization
+>>>>>>> b46ea85e6867194ec6d17d6dbe4a9dfb1f00c6e8
