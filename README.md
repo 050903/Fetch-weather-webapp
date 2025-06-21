@@ -5,6 +5,15 @@ A real-time weather data analytics and visualization web application built with 
 ## 📋 Overview
 
 This project provides a comprehensive weather monitoring dashboard that collects, stores, and displays weather data for multiple Vietnamese cities in real-time. The application features automatic data collection, real-time updates via WebSocket, interactive charts, and data export capabilities.
+# Pics
+![image](https://github.com/user-attachments/assets/3d461bdb-fa4f-4b25-9a75-54492dadedb3)
+![image](https://github.com/user-attachments/assets/03989610-25ab-426e-936e-c5bbd32e7e17)
+![image](https://github.com/user-attachments/assets/62bae2d7-7c0c-40f4-a643-e73ffe1c8299)
+![image](https://github.com/user-attachments/assets/4f501c4d-dc70-4793-9a6d-d3bc263bb789)
+![image](https://github.com/user-attachments/assets/a66c994c-b1e6-4f70-97f6-e97e4f310d70)
+![image](https://github.com/user-attachments/assets/de94cb13-fcc2-4fc1-bf6f-ab3e0ab5806c)
+![image](https://github.com/user-attachments/assets/1924485a-076c-4245-b79f-b91eb602ca42)
+![image](https://github.com/user-attachments/assets/8b7bfe70-993b-4476-8d16-45b63778c183)
 
 ## ✨ Features
 
@@ -247,7 +256,3 @@ For support and questions:
 ---
 
 **Note**: This application is designed for educational and demonstration purposes. For production use, consider implementing additional security measures, error handling, and performance optimizations.
-=======
-# Fetch-weather-webapp
-Data retrieval for weather and virtual visualization
->>>>>>> b46ea85e6867194ec6d17d6dbe4a9dfb1f00c6e8
