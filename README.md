@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather Analytics Dashboard
 
 A real-time weather data analytics and visualization web application built with Flask, Socket.IO, and Chart.js.
